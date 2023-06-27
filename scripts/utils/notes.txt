@@ -1,0 +1,7 @@
+in JIGSAWS:
+
+- kinematics:
+	- we need master left/right and slave left/right 
+	- for each, tool tip trans + rot, linear/rotational vel, and angle velocity
+	- also need PSM1 and PSM2 (patient side manipulators) same things
+
